@@ -3,7 +3,7 @@
 - ⚒️ I’m currently working as Lead Product Manager @ [CHECK24](https://www.check24.es/)
 - 💻 I'm improving my coding skills
 - 📄 If you want to know more about me you can read my [CV](https://manuel-arrabal.github.io/cv/)
-- 📫 [Email](mailto:marrabal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/manuel-arrabal-vi%C3%B1egla/) / [Twitter](https://twitter.com/manuel_arrabal)
+- 📫 [Email](mailto:info@vinegla.com) / [LinkedIn](https://www.linkedin.com/in/manuel-arrabal-vi%C3%B1egla/) / [Twitter](https://twitter.com/manuel_arrabal)
 
 <!---
 manuel-arrabal/manuel-arrabal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
